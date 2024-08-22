@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SmallHorseBrother
-- 👀 I’m interested in Maths/Physics/cybernetics/AI/robotics/quantitative biology
+- 👀 I’m interested in AI4Science/Maths/Cybernetics
 - 🌱 I’m currently learning quantitative biology
-- 💞️ I’m looking to collaborate on cybernetics and quantitative biology
-- 📫 How to reach me email:2945463110@qq.com or melinda202010@163.com
+- 💞️ I’m looking to collaborate on AI4Science
+- 📫 How to reach me email:jianwen_ma@stu.pku.edu.cn
 
 <!---
 SmallHorseBrother/SmallHorseBrother is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
